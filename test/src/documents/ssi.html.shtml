@@ -1,0 +1,4 @@
+<!--#set var="title" value="Test foo bar" -->
+<!--#include virtual="../header.shtml" -->
+
+<h1>foo--bar</h1>

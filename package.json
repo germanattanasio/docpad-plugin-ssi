@@ -1,0 +1,51 @@
+{
+  "name": "docpad-plugin-ssi",
+  "version": "0.0.1",
+  "description": "DocPad plugin that adds the ability to render SSI to HTML",
+  "homepage": "https://github.com/yourgithubusername/docpad-plugin-ssi",
+  "license": "Apache-2.0",
+  "keywords": [
+    "docpad",
+    "docpad-plugin",
+    "ssi"
+  ],
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "npmdownloads": true
+  },
+  "author": "German Attanasio <germanattanasio@gmail.com>",
+  "contributors": [
+    "balupton (https://github.com/balupton)",
+    "RobLoach (https://github.com/RobLoach)"
+  ],
+  "bugs": {
+    "url": "https://github.com/germanattanasio/docpad-plugin-ssi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/germanattanasio/docpad-plugin-ssi.git"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "peerDependencies": {
+    "docpad": "6"
+  },
+  "dependencies": {
+    "defaults": "^1.0.3",
+    "node-ssi": "^0.3.2"
+  },
+  "devDependencies": {
+    "docpad": "6",
+    "coffee-script": "^1.9.1",
+    "projectz": "^0.5.0"
+  },
+  "main": "./out/ssi.plugin.js",
+  "scripts": {
+    "test": "node ./out/ssi.test.js"
+  },
+  "cakeConfiguration": {
+    "COFFEE_SRC_PATH": "src"
+  }
+}
