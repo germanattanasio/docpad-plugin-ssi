@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-ssi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "DocPad plugin that adds the ability to render SSI to HTML",
   "homepage": "https://github.com/yourgithubusername/docpad-plugin-ssi",
   "license": "Apache-2.0",
