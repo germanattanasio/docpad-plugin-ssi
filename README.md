@@ -2,12 +2,9 @@
 
 <!-- BADGES/ -->
 
-[![Build Status](https://img.shields.io/travis/germanattanasio/docpad-plugin-ssi/master.svg)](http://travis-ci.org/germanattanasio/docpad-plugin-ssi "Check this project's build status on TravisCI")
-[![NPM version](https://img.shields.io/npm/v/docpad-plugin-ssi.svg)](https://npmjs.org/package/docpad-plugin-ssi "View this project on NPM")
-[![NPM downloads](https://img.shields.io/npm/dm/docpad-plugin-ssi.svg)](https://npmjs.org/package/docpad-plugin-ssi "View this project on NPM")
-[![Dependency Status](https://img.shields.io/david/germanattanasio/docpad-plugin-ssi.svg)](https://david-dm.org/germanattanasio/docpad-plugin-ssi)
-[![Dev Dependency Status](https://img.shields.io/david/dev/germanattanasio/docpad-plugin-ssi.svg)](https://david-dm.org/germanattanasio/docpad-plugin-ssi#info=devDependencies)<br/>
-
+<span class="badge-travisci"><a href="http://travis-ci.org/germanattanasio/docpad-plugin-ssi" title="Check this project's build status on TravisCI"><img src="https://img.shields.io/travis/germanattanasio/docpad-plugin-ssi/master.svg" alt="Travis CI Build Status" /></a></span>
+<span class="badge-npmversion"><a href="https://npmjs.org/package/docpad-plugin-ssi" title="View this project on NPM"><img src="https://img.shields.io/npm/v/docpad-plugin-ssi.svg" alt="NPM version" /></a></span>
+<span class="badge-npmdownloads"><a href="https://npmjs.org/package/docpad-plugin-ssi" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/docpad-plugin-ssi.svg" alt="NPM downloads" /></a></span>
 
 <!-- /BADGES -->
 
@@ -17,75 +14,50 @@ DocPad plugin to render SHTML files.
 Convention:  `.html.(shtml)`
 
 
-<!-- INSTALL/ -->
+<h2>Install</h2>
 
-## Install
-
-``` bash
+```
 docpad install ssi
 ```
 
-<!-- /INSTALL -->
-
-
 <!-- HISTORY/ -->
 
-## History
-[Discover the change history by heading on over to the `HISTORY.md` file.](https://github.com/germanattanasio/docpad-plugin-ssi/blob/master/HISTORY.md#files)
+<h2>History</h2>
+
+<a href="https://github.com/germanattanasio/docpad-plugin-ssi/blob/master/HISTORY.md#files">Discover the release history by heading on over to the <code>HISTORY.md</code> file.</a>
 
 <!-- /HISTORY -->
 
 
 <!-- CONTRIBUTE/ -->
 
-## Contribute
+<h2>Contribute</h2>
 
-[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/germanattanasio/docpad-plugin-ssi/blob/master/CONTRIBUTING.md#files)
+<a href="https://github.com/germanattanasio/docpad-plugin-ssi/blob/master/CONTRIBUTING.md#files">Discover how you can contribute by heading on over to the <code>CONTRIBUTING.md</code> file.</a>
 
 <!-- /CONTRIBUTE -->
 
 
-<!-- BACKERS/ -->
+<h3>Maintainers</h3>
 
-## Backers
+No maintainers yet! Will you be the first?
 
-### Maintainers
-
-These amazing people are maintaining this project:
-
-- 
-
-### Sponsors
+<h3>Sponsors</h3>
 
 No sponsors yet! Will you be the first?
 
 
 
-### Contributors
-
-These amazing people have contributed code to this project:
-
-- [balupton](https://github.com/balupton) — [view contributions](https://github.com/germanattanasio/docpad-plugin-ssi/commits?author=balupton)
-- [germanattanasio](https://github.com/germanattanasio) — [view contributions](https://github.com/germanattanasio/docpad-plugin-ssi/commits?author=germanattanasio)
-- [RobLoach](https://github.com/RobLoach) — [view contributions](https://github.com/germanattanasio/docpad-plugin-ssi/commits?author=RobLoach)
-
-[Become a contributor!](https://github.com/germanattanasio/docpad-plugin-ssi/blob/master/CONTRIBUTING.md#files)
-
-<!-- /BACKERS -->
-
-
 <!-- LICENSE/ -->
 
-## License
+<h2>License</h2>
 
 Unless stated otherwise all works are:
 
-- Copyright &copy; German Attanasio <germanattanasio@gmail.com>
+<ul><li>Copyright &copy; <a href="http://germanattanasio.com">German Attanasio Ruiz</a></li></ul>
 
 and licensed under:
 
-- The #{type} License
+<ul><li><a href="http://spdx.org/licenses/Apache-2.0.html">Apache License 2.0</a></li></ul>
 
 <!-- /LICENSE -->
-
-
